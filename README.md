@@ -16,7 +16,7 @@ SUA TAREFA:
 carrinho (não precisa ter a opção de adicionar mais de 1 produto, mas fica à seu critério);
 2. Ao clicar no ícone do carrinho no header o usuário deve ser direcionado para o tela de
 carrinho onde vai listar os produtos dele, tendo a opção de excluir um produto do carrinho;
-X. Fique à vontade para estender as funcionalidades para demonstrar seu conhecimento.
+3. Fique à vontade para estender as funcionalidades para demonstrar seu conhecimento.
 BÔNUS: Escrever testes para sua aplicação.
 _________________________________________________________________________________________________________________________________________________________________________________
 
@@ -34,5 +34,5 @@ YOUR TASK:
 cart (you don't need to have the option to add more than 1 product, but it's up to you);
 2. When clicking on the cart icon in the header, the user must be directed to the screen of
 cart where it will list its products, having the option to delete a product from the cart;
-X. Feel free to extend the functionality to demonstrate your knowledge.
+3. Feel free to extend the functionality to demonstrate your knowledge.
 BONUS: Writing tests for your application.
